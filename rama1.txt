@@ -1,0 +1,2 @@
+cat rama1.txt
+Rama 1
